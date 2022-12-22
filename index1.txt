@@ -1,0 +1,22 @@
+<html>
+<style>
+table{
+border:1px solid black;
+border-collapse:collapse;
+}
+</style>
+<body>
+<table>
+<tr>
+<td><img src="C:\Users\apssdc\Downloads\pic2"width="50px">
+</td>
+<td>
+<h1>waternature</h1>
+<ul>
+<li>human</li>
+<li>fire</li>
+</ul>
+</td></tr>
+</table>
+</body>
+</html>
